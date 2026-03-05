@@ -7,25 +7,32 @@ Converting numbers. (Binary, Hexa and Octal)
 Este projeto é um software simples desenvolvido usando o Python, para converter números entre diferentes sistemas numéricos: binário, decimal, octal e hexadecimal. Ele foi criado para auxiliar nas as atividades do meu curso, de conversões numéricas e além de me ajudar nas tarefas, ajudou a compreender bem a lógica das funções.
 
            Conceitos aplicados:
--Sistemas de numeração.
--Conversão entre bases numéricas
--Lógica de programação
--Estruturas básicas da linguagem
+   
+    -Sistemas de numeração.
+    
+    -Conversão entre bases numéricas
+    
+    -Lógica de programação
+    
+    -Estruturas básicas da linguagem
 
           Funcionalidades:
-Converter binário → decimal
+    Converter binário → decimal
 
-Converter decimal → binário
+    Converter decimal → binário
 
-Converter decimal → hexadecimal
+    Converter decimal → hexadecimal
 
-Converter decimal → octal
+    Converter decimal → octal
 
-Conversões entre outros sistemas numéricos
+    Conversões entre outros sistemas.  numéricos
 
            Objetivo:
 Feito com o objetivo de práticar a minha lógica e conhecimento com estruturas aninhadas, funções, identações e condições.
 
           Como executar o projeto:
-1• Clone esse repositório:
-https://github.com/Epic10ka/Numerical-Conversion.git
+1• Clone esse repositório: https://github.com/Epic10ka/Numerical-  Conversion.git
+
+2• Acesse a pasta do projeto 
+
+3• Execute o arquivo Num_conversions.py
