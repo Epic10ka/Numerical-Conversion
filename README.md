@@ -17,6 +17,7 @@ Este projeto é um software simples desenvolvido usando o Python, para converter
     -Estruturas básicas da linguagem
 
           Funcionalidades:
+   
     Converter binário → decimal
 
     Converter decimal → binário
@@ -28,11 +29,22 @@ Este projeto é um software simples desenvolvido usando o Python, para converter
     Conversões entre outros sistemas.  numéricos
 
            Objetivo:
-Feito com o objetivo de práticar a minha lógica e conhecimento com estruturas aninhadas, funções, identações e condições.
 
-          Como executar o projeto:
+    Feito com o objetivo de práticar a minha     lógica e conhecimento com estruturas     aninhadas, funções, identações e condições.
+
+
+Como executar o projeto:
+
 1• Clone esse repositório: https://github.com/Epic10ka/Numerical-  Conversion.git
 
 2• Acesse a pasta do projeto 
 
-3• Execute o arquivo Num_conversions.py
+3• Execute o arquivo nums_conversions.py e teste-o livremente.
+
+    -Possiveis melhorias futuras•
+
+    -Criar uma interface gráfica
+
+    -Permitir conversões diretas entre qualquer base
+
+    -Versão Web da ferramenta
