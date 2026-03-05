@@ -5,16 +5,17 @@ Converting numbers. (Binary, Hexa and Octal)
           
            Sobre:
 Este projeto é um software simples desenvolvido usando o Python, para converter números entre diferentes sistemas numéricos: binário, decimal, octal e hexadecimal. Ele foi criado para auxiliar nas as atividades do meu curso, de conversões numéricas e além de me ajudar nas tarefas, ajudou a compreender bem a lógica das funções.
-
+___
+           
            Conceitos aplicados:
    
-    -Sistemas de numeração.
+-Sistemas de numeração.
     
-    -Conversão entre bases numéricas
+-Conversão entre bases numéricas
     
-    -Lógica de programação
+-Lógica de programação
     
-    -Estruturas básicas da linguagem
+-Estruturas básicas da linguagem
 
           Funcionalidades:
    
