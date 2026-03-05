@@ -27,7 +27,7 @@ Converter decimal → hexadecimal
 
 Converter decimal → octal
 
-Conversões entre outros sistemas.  numéricos
+Conversões entre outros sistemas numéricos
 ____
            Objetivo:
 
