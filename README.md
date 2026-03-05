@@ -19,15 +19,15 @@ ___
 
           Funcionalidades:
    
-    Converter binário → decimal
+Converter binário → decimal
 
-    Converter decimal → binário
+Converter decimal → binário
 
-    Converter decimal → hexadecimal
+Converter decimal → hexadecimal
 
-    Converter decimal → octal
+Converter decimal → octal
 
-    Conversões entre outros sistemas.  numéricos
+Conversões entre outros sistemas.  numéricos
 ____
            Objetivo:
 
@@ -36,7 +36,7 @@ Feito com o objetivo de práticar a minha     lógica e conhecimento com estrutu
 
     Como executar o projeto:
 
-1• Clone esse repositório: https://github.com/Epic10ka/Numerical-  Conversion.git
+1• Clone esse repositório: https://github.com/Epic10ka/Numerical-Conversion
 
 2• Acesse a pasta do projeto 
 
