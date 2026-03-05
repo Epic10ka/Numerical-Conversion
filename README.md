@@ -27,13 +27,13 @@ Este projeto é um software simples desenvolvido usando o Python, para converter
     Converter decimal → octal
 
     Conversões entre outros sistemas.  numéricos
-
+____
            Objetivo:
 
-    Feito com o objetivo de práticar a minha     lógica e conhecimento com estruturas     aninhadas, funções, identações e condições.
+Feito com o objetivo de práticar a minha     lógica e conhecimento com estruturas     aninhadas, funções, identações e condições.
 
 
-Como executar o projeto:
+    Como executar o projeto:
 
 1• Clone esse repositório: https://github.com/Epic10ka/Numerical-  Conversion.git
 
@@ -43,8 +43,8 @@ Como executar o projeto:
 
     -Possiveis melhorias futuras•
 
-    -Criar uma interface gráfica
+-Criar uma interface gráfica
 
-    -Permitir conversões diretas entre qualquer base
+-Permitir conversões diretas entre qualquer base
 
-    -Versão Web da ferramenta
+-Versão Web da ferramenta
