@@ -49,3 +49,5 @@ Feito com o objetivo de práticar a minha     lógica e conhecimento com estrutu
 -Permitir conversões diretas entre qualquer base
 
 -Versão Web da ferramenta
+
+-Quero ajeitar a identaçãi criando umloop para evitar erros.
