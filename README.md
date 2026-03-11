@@ -28,6 +28,8 @@ Converter decimal → hexadecimal
 Converter decimal → octal
 
 Conversões entre outros sistemas numéricos
+
+Loop para repetir o processo
 ____
            Objetivo:
 
@@ -46,8 +48,4 @@ Feito com o objetivo de práticar a minha     lógica e conhecimento com estrutu
 
 -Criar uma interface gráfica
 
--Permitir conversões diretas entre qualquer base
-
 -Versão Web da ferramenta
-
--Quero ajeitar a identaçãi criando umloop para evitar erros.
