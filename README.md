@@ -33,7 +33,7 @@ Loop para repetir o processo
 ____
            Objetivo:
 
-Feito com o objetivo de práticar a minha     lógica e conhecimento com estruturas     aninhadas, funções, identações e condições.
+Feito com o objetivo de práticar a minha lógica e conhecimento com estruturas aninhadas, funções, indentações e condições.
 
 
     Como executar o projeto:
