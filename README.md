@@ -4,7 +4,7 @@ Converting numbers. (Binary, Hexa and Octal)
 <img width="849" height="474" alt="Conversão" src="https://github.com/user-attachments/assets/fc17143e-68f7-4fbd-86de-4302160d2d73" />
           
            Sobre:
-Este projeto é um software simples desenvolvido usando o Python, para converter números entre diferentes sistemas numéricos: binário, decimal, octal e hexadecimal. Ele foi criado para auxiliar nas as atividades do meu curso, de conversões numéricas e além de me ajudar nas tarefas, ajudou a compreender bem a lógica das funções.
+Ele foi criado para auxiliar nas atividades do meu curso sobre conversões numéricas. Além de me ajudar nas tarefas, também me ajudou a compreender melhor a lógica das funções.
 ___
            
            Conceitos aplicados:
@@ -33,7 +33,7 @@ Loop para repetir o processo
 ____
            Objetivo:
 
-Feito com o objetivo de práticar a minha lógica e conhecimento com estruturas aninhadas, funções, indentações e condições.
+Feito com o objetivo de praticar a minha lógica e conhecimento com estruturas aninhadas, funções, indentação e condições.
 
 
     Como executar o projeto:
@@ -42,9 +42,9 @@ Feito com o objetivo de práticar a minha lógica e conhecimento com estruturas 
 
 2• Acesse a pasta do projeto 
 
-3• Execute o arquivo nums_conversions.py e teste-o livremente.
+3• Execute o arquivo `nums_conversions.py` e teste-o livremente.
 
-    -Possiveis melhorias futuras•
+    -Possíveis melhorias futuras•
 
 -Criar uma interface gráfica
 
